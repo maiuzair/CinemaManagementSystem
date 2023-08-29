@@ -1,2 +1,2 @@
 # CinemaManagementSystem
-# My First OOP project in Java.
+My First OOP project in Java.
